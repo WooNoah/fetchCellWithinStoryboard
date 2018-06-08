@@ -1,1 +1,4 @@
 # fetchCellWithinStoryboard
+> 由于项目中使用了storyboard创建了一个简单的tableview。然后在开发夜间模式的时候，要获取到cell，然后根据配置设置cell的背景色，所以这里就存在一个获取cell的过程
+
+这个demo就是复习一下各种创建tableview的方法，留作参考
